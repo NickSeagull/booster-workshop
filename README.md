@@ -2,7 +2,7 @@
   <h1 style="font-size: 200%;"><b>⚠️ THIS IS A WORK IN PROGRESS, DON'T TAKE IT TOO SERIOUSLY FOR NOW⚠️</b></h1>
 </div>
 
-# **General Information**
+# **General Information** 📋
 
 In this workshop, you will learn how to create a backend (that is the part of the application running on a server, managing the data) for an existing frontend (that is the user interface on a website, or a mobile phone).
 
@@ -29,13 +29,13 @@ Materials will be provided in advance of the workshop
 
 **Contact:** Please email nick@booster.cloud or laia@booster.cloud for more information.
 
-# **Code of Conduct**
+# **Code of Conduct** 💖
 
 Everyone who participates in this workshop is required to conform to the [Berlin Code of Conduct](https://berlincodeofconduct.org/). You can use the following link to report Code of Conduct incidents.
 
 **INSERT TYPEFORM**
 
-# **Surveys**
+# **Surveys** ✍️
 
 Please be sure to complete these surveys before and after the workshop.
 
@@ -43,11 +43,11 @@ Pre-workshop Survey
 
 Post-workshop Survey
 
-# Schedule
+# Schedule ⏱
 
 TBD
 
-# **Setup**
+# **Setup** 💻
 
 To participate in the workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser.
 
